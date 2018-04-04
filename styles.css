@@ -1,0 +1,22 @@
+/* add your CSS here */
+img{
+  width:300px;
+  height:300px;
+}
+#interesting-fact{
+  font-style: italic;
+}
+.animal-info{
+  border:2px solid;}
+span{
+  font-weight:bold;
+}
+li{
+  list-style:none;
+}
+#container{
+ 
+padding:10px;
+}
+#card,#container{
+  border:solid; }
